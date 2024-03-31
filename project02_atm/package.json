@@ -1,33 +1,15 @@
 {
   "name": "fsp02-atm",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.4",
+  "description": "This is a cli based ATM.",
   "main": "index.js",
   "type": "module",
   "bin": "index.js",
-  "license": "AGPL-version-3.0",
-  "private": false,
-  "engines": {
-    "node": ">= 14.0.0",
-    "npm": ">= 6.0.0"
-  },
-  "homepage": "",
-  "repository": {
-    "type": "git",
-    "url": ""
-  },
-  "bugs": "",
-  "keywords": [],
-  "author": {
-    "name": "",
-    "email": "",
-    "url": ""
-  },
-  "contributors": [],
   "scripts": {
-    "dev": "",
-    "test": ""
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "author": "Farah Syed",
+  "license": "MIT",
   "dependencies": {
     "inquirer": "^9.2.16"
   },
